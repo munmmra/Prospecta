@@ -9,7 +9,8 @@ Desarollada con:
 - CodeIniter
 - MySQL
 
-|a|b|
+|lechuga|b|
+|-|-|
 |1|2|
 
 ```sh
