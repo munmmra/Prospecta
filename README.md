@@ -9,9 +9,16 @@ Desarollada con:
 - CodeIniter
 - MySQL
 
-|lechuga|b|
-|-|-|
-|1|2|
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+
+| a | b |
+|---|---|
+| 1 | 2 |
 
 ```sh
 prueba
