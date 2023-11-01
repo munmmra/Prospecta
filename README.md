@@ -16,7 +16,7 @@ Desarollada con:
 |   |   |   |   |   |
 
 
-| a | b |
+| lechuga | b |
 |---|---|
 | 1 | 2 |
 
