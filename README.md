@@ -15,6 +15,11 @@ Desarollada con:
 |   |   |   |   |   |
 |   |   |   |   |   |
 
+
+|a||b|
+|-|-|
+|1|2|
+
 ```sh
 prueba
 ````
