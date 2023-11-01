@@ -9,8 +9,11 @@ Desarollada con:
 - CodeIniter
 - MySQL
 
-|a|b|
-|1|2|
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ```sh
 prueba
